@@ -1,0 +1,9 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/channel1_screen/channel1View.cpp:13:6:virtual void channel1View::tearDownScreen()	0	static
+../../TouchGFX/gui/include/gui/channel1_screen/channel1View.hpp:11:13:channel1View::~channel1View()	8	static
+../../TouchGFX/gui/include/gui/channel1_screen/channel1View.hpp:11:13:virtual channel1View::~channel1View()	8	static
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/channel1_screen/channel1View.cpp:3:1:channel1View::channel1View()	8	static
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/channel1_screen/channel1View.cpp:18:6:void channel1View::UpdateGraph(uint16_t)	0	static
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/channel1_screen/channel1View.cpp:8:6:virtual void channel1View::setupScreen()	0	static

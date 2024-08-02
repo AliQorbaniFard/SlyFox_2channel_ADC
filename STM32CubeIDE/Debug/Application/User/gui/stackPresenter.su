@@ -1,0 +1,7 @@
+../../TouchGFX/gui/include/gui/stack_screen/stackPresenter.hpp:28:13:stackPresenter::~stackPresenter()	0	static
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/stack_screen/stackPresenter.cpp:10:6:virtual void stackPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/stack_screen/stackPresenter.hpp:28:13:virtual stackPresenter::~stackPresenter()	8	static
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/stack_screen/stackPresenter.cpp:20:6:virtual void stackPresenter::UpdateGraph(uint16_t)	0	static
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/stack_screen/stackPresenter.cpp:25:6:virtual void stackPresenter::UpdateGraph2(uint16_t)	0	static
+../../TouchGFX/gui/include/gui/stack_screen/stackPresenter.hpp:28:13:virtual void* stackPresenter::_ZThn4_N14stackPresenterD1Ev()	0	static
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/stack_screen/stackPresenter.cpp:4:1:stackPresenter::stackPresenter(stackView&)	0	static

@@ -1,0 +1,7 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::UpdateGraph2(uint16_t)	1
+../../TouchGFX/gui/include/gui/channel1_screen/channel1Presenter.hpp:28:13:channel1Presenter::~channel1Presenter()	1
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/channel1_screen/channel1Presenter.cpp:10:6:virtual void channel1Presenter::activate()	1
+../../TouchGFX/gui/include/gui/channel1_screen/channel1Presenter.hpp:28:13:virtual channel1Presenter::~channel1Presenter()	1
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/channel1_screen/channel1Presenter.cpp:20:6:virtual void channel1Presenter::UpdateGraph(uint16_t)	1
+../../TouchGFX/gui/include/gui/channel1_screen/channel1Presenter.hpp:28:13:virtual void* channel1Presenter::_ZThn4_N17channel1PresenterD1Ev()	1
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/channel1_screen/channel1Presenter.cpp:4:1:channel1Presenter::channel1Presenter(channel1View&)	1

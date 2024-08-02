@@ -1,0 +1,7 @@
+../../TouchGFX/gui/include/gui/main_screen/mainPresenter.hpp:28:13:mainPresenter::~mainPresenter()	0	static
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/main_screen/mainPresenter.cpp:10:6:virtual void mainPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/main_screen/mainPresenter.hpp:28:13:virtual mainPresenter::~mainPresenter()	8	static
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/main_screen/mainPresenter.cpp:20:6:virtual void mainPresenter::UpdateGraph(uint16_t)	0	static
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/main_screen/mainPresenter.cpp:25:6:virtual void mainPresenter::UpdateGraph2(uint16_t)	0	static
+../../TouchGFX/gui/include/gui/main_screen/mainPresenter.hpp:28:13:virtual void* mainPresenter::_ZThn4_N13mainPresenterD1Ev()	0	static
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/main_screen/mainPresenter.cpp:4:1:mainPresenter::mainPresenter(mainView&)	0	static

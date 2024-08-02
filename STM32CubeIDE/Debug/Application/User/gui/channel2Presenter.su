@@ -1,0 +1,7 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:19:18:virtual void ModelListener::UpdateGraph(uint16_t)	0	static
+../../TouchGFX/gui/include/gui/channel2_screen/channel2Presenter.hpp:28:13:channel2Presenter::~channel2Presenter()	0	static
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/channel2_screen/channel2Presenter.cpp:10:6:virtual void channel2Presenter::activate()	0	static
+../../TouchGFX/gui/include/gui/channel2_screen/channel2Presenter.hpp:28:13:virtual channel2Presenter::~channel2Presenter()	8	static
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/channel2_screen/channel2Presenter.cpp:22:6:virtual void channel2Presenter::UpdateGraph2(uint16_t)	0	static
+../../TouchGFX/gui/include/gui/channel2_screen/channel2Presenter.hpp:28:13:virtual void* channel2Presenter::_ZThn4_N17channel2PresenterD1Ev()	0	static
+D:/TouchGFX_projects/dvd_project/oscilloscope/oscilloscope/TouchGFX/gui/src/channel2_screen/channel2Presenter.cpp:4:1:channel2Presenter::channel2Presenter(channel2View&)	0	static
