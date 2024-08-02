@@ -8,4 +8,8 @@ touchgfx is used to setup GUI
 -------------------------------------------------------------------------
 related video links will be provided soon
 -------------------------------------------------------------------------
+to upload the code, hex file is provided in cubeIDE folder
+-------------------------------------------------------------------------
+Pins A0 and A5 (arduino pins) are used for ADC
+-------------------------------------------------------------------------
  ![photo_5866185273862376199_y](https://github.com/user-attachments/assets/48902b8d-3882-4fcb-b7db-e5365b25750c)
