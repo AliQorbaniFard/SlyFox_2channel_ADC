@@ -1,8 +1,11 @@
-# STM32F746G_DISCO TBS.
+# STM32F746G_DISCO 
 
-The default IDE is set to STM32CubeIDE, to change IDE open the STM32F746G_DISCO.ioc with STM32CubeMX and select from the supported IDEs (EWARM from version 8.50.9, MDK-ARM, and STM32CubeIDE). Supports flashing of the STM32F746G_DISCO board directly from TouchGFX Designer using GCC and STM32CubeProgrammer.Flashing the board requires STM32CubeProgrammer which can be downloaded from the ST webpage. 
-
-This TBS is configured for 272 x 480 pixels 16bpp screen resolution.  
-
-Performance testing can be done using the GPIO pins designated with the following signals: VSYNC_FREQ  - Pin PB4(D3), RENDER_TIME - Pin PC6(D1), FRAME_RATE  - Pin PC7(D0), MCU_ACTIVE  - Pin PG6(D2)
- 
+enabling stm32f746 discovery board 2 channel ADC using DMA
+-------------------------------------------------------------------------
+STM32 cubeIDE is used for debugging,
+-------------------------------------------------------------------------
+touchgfx is used to setup GUI
+-------------------------------------------------------------------------
+related video links will be provided soon
+-------------------------------------------------------------------------
+ ![photo_5866185273862376199_y](https://github.com/user-attachments/assets/48902b8d-3882-4fcb-b7db-e5365b25750c)
