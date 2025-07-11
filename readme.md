@@ -6,7 +6,8 @@ STM32 cubeIDE is used for debugging,
 -------------------------------------------------------------------------
 touchgfx is used to setup GUI
 -------------------------------------------------------------------------
-related video links will be provided soon
+related video links is provided 
+https://www.youtube.com/watch?v=sti1CMLnozU&t=3s
 -------------------------------------------------------------------------
 to upload the code, hex file is provided in cubeIDE folder
 -------------------------------------------------------------------------
